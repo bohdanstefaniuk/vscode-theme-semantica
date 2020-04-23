@@ -1,0 +1,1 @@
+# vscode-theme-alabaster-blue-light
