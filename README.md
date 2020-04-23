@@ -1,6 +1,6 @@
 # Light Blue Alabaster Theme
 
-A light theme witch combine colors from original [alabaster theme](https://github.com/tonsky/vscode-theme-alabaster) and Visual Studio Light Blue syntax highlight.
+A light theme witch combine colors from original [alabaster theme](https://github.com/tonsky/vscode-theme-alabaster) and original Visual Studio and Rider syntax highlight.
 
 ## Motivation
 
