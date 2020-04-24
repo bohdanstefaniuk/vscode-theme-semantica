@@ -22,7 +22,7 @@
 			}
 		]
 	},
-	"icon": "./assets/icon.jpg",
+	"icon": "assets/icon.jpg",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/teamkiller7112/vscode-theme-semantica.git"
