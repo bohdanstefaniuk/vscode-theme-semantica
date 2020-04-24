@@ -1,0 +1,33 @@
+{
+	"name": "theme-semantica",
+	"displayName": "Semantica Theme",
+	"version": "0.1.0",
+	"publisher": "bogdanstefanjuk",
+	"license": "MIT",
+	"maintainers": [
+		"Bohdan Stefaniuk <bogdanstefanjuk@gmail.com>"
+	],
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Semantica",
+				"uiTheme": "vs",
+				"path": "./theme/semantica-theme.json"
+			}
+		]
+	},
+	"icon": "icon.jpg",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/teamkiller7112/vscode-theme-semantica.git"
+	},
+	"bugs": {
+		"url": "https://github.com/teamkiller7112/vscode-theme-semantica/issues"
+	}
+}
